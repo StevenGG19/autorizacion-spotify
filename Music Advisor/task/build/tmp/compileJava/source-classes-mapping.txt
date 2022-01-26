@@ -1,0 +1,19 @@
+advisor/Authorisation.java
+ advisor.Authorisation
+ advisor.Authorisation$1
+advisor/Main.java
+ advisor.Main
+advisor/DatoCategorie.java
+ advisor.DatoCategorie
+advisor/Service.java
+ advisor.Service
+advisor/DatoNuevoAlbum.java
+ advisor.DatoNuevoAlbum
+advisor/NombreArtista.java
+ advisor.NombreArtista
+advisor/Url.java
+ advisor.Url
+advisor/Advisor.java
+ advisor.Advisor
+advisor/DatoPlaylist.java
+ advisor.DatoPlaylist
